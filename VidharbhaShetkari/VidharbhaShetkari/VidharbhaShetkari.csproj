@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{029169A1-C5B2-468F-9D9E-B530637DDA86}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VidharbhaShetkari</RootNamespace>
+    <AssemblyName>VidharbhaShetkari</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="catalog\view\javascript\bootstrap\css\bootstrap.min.css" />
+    <Content Include="catalog\view\javascript\bootstrap\js\bootstrap.min.js" />
+    <Content Include="catalog\view\javascript\font-awesome\css\font-awesome.min.css" />
+    <Content Include="catalog\view\javascript\jquery\datetimepicker\bootstrap-datetimepicker.min.css" />
+    <Content Include="catalog\view\javascript\jquery\datetimepicker\bootstrap-datetimepicker.min.js" />
+    <Content Include="catalog\view\javascript\jquery\datetimepicker\moment.js" />
+    <Content Include="catalog\view\javascript\jquery\jquery-2.1.1.min.js" />
+    <Content Include="catalog\view\javascript\tmfilter\css\images\iconse6dd.png" />
+    <Content Include="catalog\view\javascript\tmfilter\css\style.css" />
+    <Content Include="catalog\view\javascript\tmfilter\js\iscroll.js" />
+    <Content Include="catalog\view\javascript\tmfilter\js\jquery-ui.min.js" />
+    <Content Include="catalog\view\javascript\tmfilter\js\tm_filter.js" />
+    <Content Include="catalog\view\theme\theme741\image\footer-bg.jpg" />
+    <Content Include="catalog\view\theme\theme741\image\lazy-loader.gif" />
+    <Content Include="catalog\view\theme\theme741\image\litt-loader.gif" />
+    <Content Include="catalog\view\theme\theme741\image\photoswipe-icons%402x.png" />
+    <Content Include="catalog\view\theme\theme741\image\photoswipe-icons.png" />
+    <Content Include="catalog\view\theme\theme741\image\photoswipe-loader.html" />
+    <Content Include="catalog\view\theme\theme741\image\preloader.gif" />
+    <Content Include="catalog\view\theme\theme741\image\quick_view_preloader.gif" />
+    <Content Include="catalog\view\theme\theme741\image\swiper-bg.png" />
+    <Content Include="catalog\view\theme\theme741\image\warning_bar_0000_us.jpg" />
+    <Content Include="catalog\view\theme\theme741\js\ajax_infinite_scroll.js" />
+    <Content Include="catalog\view\theme\theme741\js\bootstrap\bootstrap-tabcollapse.js" />
+    <Content Include="catalog\view\theme\theme741\js\common.js" />
+    <Content Include="catalog\view\theme\theme741\js\device.min.js" />
+    <Content Include="catalog\view\theme\theme741\js\fancybox\blank.gif" />
+    <Content Include="catalog\view\theme\theme741\js\fancybox\fancybox_loading%402x.gif" />
+    <Content Include="catalog\view\theme\theme741\js\fancybox\fancybox_loading.gif" />
+    <Content Include="catalog\view\theme\theme741\js\fancybox\fancybox_overlay.png" />
+    <Content Include="catalog\view\theme\theme741\js\fancybox\fancybox_sprite%402x.png" />
+    <Content Include="catalog\view\theme\theme741\js\fancybox\fancybox_sprite.png" />
+    <Content Include="catalog\view\theme\theme741\js\fancybox\jquery.fancybox.css" />
+    <Content Include="catalog\view\theme\theme741\js\owl.carousel\assets\owl.carousel.css" />
+    <Content Include="catalog\view\theme\theme741\js\owl.carousel\assets\owl.video.play.png" />
+    <Content Include="catalog\view\theme\theme741\js\script.js" />
+    <Content Include="catalog\view\theme\theme741\js\swiper\swiper.min.js" />
+    <Content Include="catalog\view\theme\theme741\js\tmcolorswitcher\jquery.cookies.js" />
+    <Content Include="catalog\view\theme\theme741\js\tmcolorswitcher\style_switcher_demo.js" />
+    <Content Include="catalog\view\theme\theme741\js\tmdealbanner\jquery.countdown.min.js" />
+    <Content Include="catalog\view\theme\theme741\js\tmmegamenu\jquery.rd-navbar.min.js" />
+    <Content Include="catalog\view\theme\theme741\js\tmmegamenu\superfish.min.js" />
+    <Content Include="catalog\view\theme\theme741\js\tmparallax\jquery.rd-parallax.min.js" />
+    <Content Include="catalog\view\theme\theme741\js\tmpromobanner\jquery.countdown.min.js" />
+    <Content Include="catalog\view\theme\theme741\stylesheet\color_schemes\color_scheme_1.css" />
+    <Content Include="catalog\view\theme\theme741\stylesheet\gallery-grid.css" />
+    <Content Include="catalog\view\theme\theme741\stylesheet\homebuilder.css" />
+    <Content Include="catalog\view\theme\theme741\stylesheet\material-design.css" />
+    <Content Include="catalog\view\theme\theme741\stylesheet\photoswipe.css" />
+    <Content Include="catalog\view\theme\theme741\stylesheet\stylesheet.css" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="download.aspx" />
+    <Content Include="gallery.aspx" />
+    <Content Include="images\banner-2-870x380.jpg" />
+    <Content Include="images\download\1.jpg" />
+    <Content Include="images\download\2.jpg" />
+    <Content Include="images\download\3.jpg" />
+    <Content Include="images\download\4.jpg" />
+    <Content Include="images\download\5.jpg" />
+    <Content Include="images\gallery\DSC03239.JPG" />
+    <Content Include="images\gallery\DSC03246.JPG" />
+    <Content Include="images\gallery\DSC07378.JPG" />
+    <Content Include="images\gallery\DSC07408.JPG" />
+    <Content Include="images\gallery\DSCN0303.JPG" />
+    <Content Include="images\gallery\DSCN0311.JPG" />
+    <Content Include="images\gallery\DSCN0316.JPG" />
+    <Content Include="images\gallery\DSCN0393.JPG" />
+    <Content Include="images\gallery\DSCN0469.JPG" />
+    <Content Include="images\gallery\DSCN0644.JPG" />
+    <Content Include="images\gallery\DSCN0647.JPG" />
+    <Content Include="images\gallery\DSCN0938.JPG" />
+    <Content Include="images\gallery\DSCN0952.JPG" />
+    <Content Include="images\gallery\DSCN0954.JPG" />
+    <Content Include="images\gallery\DSCN0961.jpg" />
+    <Content Include="images\gallery\DSCN1141.JPG" />
+    <Content Include="images\gallery\DSCN1142.JPG" />
+    <Content Include="images\gallery\DSCN1148.JPG" />
+    <Content Include="images\gallery\DSCN1149.JPG" />
+    <Content Include="images\gallery\DSC_0459.JPG" />
+    <Content Include="images\gallery\DSC_0481.JPG" />
+    <Content Include="images\gradeandclean.jpg" />
+    <Content Include="images\logo_icon.png" />
+    <Content Include="images\product1.jpg" />
+    <Content Include="images\VidharbhaShetkariLogo.png" />
+    <Content Include="index.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="WebForm1.aspx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="download.aspx.cs">
+      <DependentUpon>download.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="download.aspx.designer.cs">
+      <DependentUpon>download.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="gallery.aspx.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="gallery.aspx.designer.cs">
+      <DependentUpon>gallery.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Site1.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="catalog\view\theme\theme741\images\" />
+    <Folder Include="catalog\view\theme\theme741\js\tmgooglemap\" />
+    <Folder Include="catalog\view\theme\theme741\stylesheet\admin\images\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <None Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <None Include="catalog\view\javascript\bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont5b62.svg" />
+    <None Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont5b62.ttf" />
+    <None Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont5b62.woff" />
+    <None Include="catalog\view\javascript\font-awesome\fonts\fontawesome-webfont5b62.woff2" />
+    <None Include="catalog\view\theme\theme741\fonts\material-design.ttf" />
+    <None Include="catalog\view\theme\theme741\fonts\material-design.woff" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>2029</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

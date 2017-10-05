@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="c:/Vidharbha" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FTP" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="catalog/view/javascript/tmfilter/js/jquery-ui.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/owl.carousel/assets/owl.carousel.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/javascript/bootstrap/css/bootstrap.min.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="bin/VidharbhaShetkari.pdb" publishTime="09/19/2017 11:15:57" />
+    <file relUrl="catalog/view/theme/theme741/image/swiper-bg.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/javascript/jquery/jquery-2.1.1.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/fancybox/fancybox_loading.gif" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/ajax_infinite_scroll.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/fancybox/jquery.fancybox.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/image/quick_view_preloader.gif" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="images/banner-2-870x380.jpg" publishTime="09/12/2017 13:15:48" />
+    <file relUrl="catalog/view/javascript/jquery/datetimepicker/moment.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/stylesheet/homebuilder.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/fancybox/fancybox_overlay.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/tmparallax/jquery.rd-parallax.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="images/product1.jpg" publishTime="09/19/2017 10:23:44" />
+    <file relUrl="catalog/view/javascript/font-awesome/css/font-awesome.min.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/tmpromobanner/jquery.countdown.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/common.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/javascript/tmfilter/css/style.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/fancybox/fancybox_sprite.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="bin/VidharbhaShetkari.dll" publishTime="09/19/2017 11:15:57" />
+    <file relUrl="catalog/view/theme/theme741/image/warning_bar_0000_us.jpg" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="Site1.Master" publishTime="09/19/2017 10:24:34" />
+    <file relUrl="catalog/view/javascript/tmfilter/js/tm_filter.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/stylesheet/color_schemes/color_scheme_1.css" publishTime="09/13/2017 11:07:35" />
+    <file relUrl="catalog/view/theme/theme741/js/bootstrap/bootstrap-tabcollapse.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/image/photoswipe-icons@2x.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/image/preloader.gif" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/fancybox/blank.gif" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="images/logo_icon.png" publishTime="09/11/2017 11:40:27" />
+    <file relUrl="catalog/view/javascript/bootstrap/js/bootstrap.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/image/litt-loader.gif" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/stylesheet/material-design.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/device.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/stylesheet/stylesheet.css" publishTime="09/19/2017 10:59:33" />
+    <file relUrl="catalog/view/javascript/tmfilter/css/images/iconse6dd.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/image/footer-bg.jpg" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/script.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/owl.carousel/assets/owl.video.play.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="images/VidharbhaShetkariLogo.png" publishTime="09/11/2017 11:28:31" />
+    <file relUrl="catalog/view/theme/theme741/js/swiper/swiper.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/tmcolorswitcher/jquery.cookies.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/tmdealbanner/jquery.countdown.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/javascript/tmfilter/js/iscroll.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/fancybox/fancybox_sprite@2x.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/stylesheet/photoswipe.css" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/image/lazy-loader.gif" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="Web.config" publishTime="09/19/2017 11:18:08" />
+    <file relUrl="catalog/view/javascript/jquery/datetimepicker/bootstrap-datetimepicker.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="index.aspx" publishTime="09/19/2017 11:14:34" />
+    <file relUrl="catalog/view/theme/theme741/image/photoswipe-icons.png" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="WebForm1.aspx" publishTime="09/12/2017 14:43:28" />
+    <file relUrl="catalog/view/theme/theme741/image/photoswipe-loader.html" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/tmcolorswitcher/style_switcher_demo.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/tmmegamenu/jquery.rd-navbar.min.js" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/fancybox/fancybox_loading@2x.gif" publishTime="09/12/2017 14:43:48" />
+    <file relUrl="catalog/view/theme/theme741/js/tmmegamenu/superfish.min.js" publishTime="09/12/2017 14:43:48" />
+  </publishProfile>
+</publishData>

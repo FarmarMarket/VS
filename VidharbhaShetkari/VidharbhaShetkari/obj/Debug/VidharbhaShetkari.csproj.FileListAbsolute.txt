@@ -1,0 +1,4 @@
+D:\VidharbhaShetakari\VidharbhaShetkari\VidharbhaShetkari\bin\VidharbhaShetkari.dll
+D:\VidharbhaShetakari\VidharbhaShetkari\VidharbhaShetkari\bin\VidharbhaShetkari.pdb
+D:\VidharbhaShetakari\VidharbhaShetkari\VidharbhaShetkari\obj\Debug\VidharbhaShetkari.dll
+D:\VidharbhaShetakari\VidharbhaShetkari\VidharbhaShetkari\obj\Debug\VidharbhaShetkari.pdb
